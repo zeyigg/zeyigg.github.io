@@ -1,1 +1,12 @@
-# zeyigg.github.io
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title> hexo test </title>
+</head>
+<body>
+    <h1>hexo test</h1>
+    <p> hello world </p>
+</body>
+</html>
+
